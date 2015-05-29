@@ -1,0 +1,2 @@
+We used some metrics of C++11, so your g++ should have a version of 4.6 or above.
+g++ = 4.6 or above
